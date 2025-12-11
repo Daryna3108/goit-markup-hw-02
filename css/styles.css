@@ -41,6 +41,7 @@ ul {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  text-decoration: none;
   color: #4d5ae5;
 }
 
@@ -113,6 +114,10 @@ ul {
 /* --------------FEATURES------------- */
 
 .features-section {
+}
+
+.features-title {
+  text-align: left;
 }
 
 .features-list {
